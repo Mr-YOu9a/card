@@ -2,4 +2,4 @@
 Simple Card build Using  HTML5 &amp; Bootsrap v4.3.1....................
 
 <br>
-<img src="img/screenshot.png"> 
+<img src="Img/screenshot.png"> 
